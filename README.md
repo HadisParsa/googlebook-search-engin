@@ -67,7 +67,7 @@ As you can see in the following screen shots, a user can type a search term in a
 
 ![Animation shows " " typed into a search box and books about ... appearing as results.](./Assets/ScreenShot1.jpg)
 
-The user can save books by clicking "Save This Book!" under each search result, as shown in the following animation:
+The user can save books by clicking "Save This Book!" under each search result if they login as shown in the following screen shots:
 
 ![Screen Shot shows user clicking "Save This Book!" button to save books that appear in search results. The button label changes to "Book Already Saved" after it is clicked and the book is saved.](./Assets/ScreenShot2.jpg)
 
