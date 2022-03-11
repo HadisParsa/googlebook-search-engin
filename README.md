@@ -75,11 +75,20 @@ A user can view their saved book on a separate page, as shown in the following :
 
 ![Screen Shot shows the books that the user has saved.](./Assets/ScreenShot3.jpg)
 
+## Installation
 
- 
+To run the code in your server after cloning :
+ ```md
+npm i 
+```
+to run the server and client at the same time:
+ ```md
+npm run develop
+```
+
 ## Key Topics
 
-The following topics will be covered in this unit:
+The following topics are coverd to make this website:
 
 * [GraphQL Playground](https://www.apollographql.com/docs/apollo-server/testing/graphql-playground/)
 
