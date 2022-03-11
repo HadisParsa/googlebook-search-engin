@@ -1,14 +1,14 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Google Books search engin",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "watch": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hadis Parsa",
   "license": "ISC",
   "dependencies": {
     "apollo-server-express": "^2.15.0",

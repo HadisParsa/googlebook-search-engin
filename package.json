@@ -1,7 +1,7 @@
 {
   "name": "googlebooks-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Google Books search engin to search for new books to read",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
